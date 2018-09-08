@@ -1,0 +1,29 @@
+{
+    "name": "imliam/php-catch-exit",
+    "description": "Gracefully handle an unwanted exit statement.",
+    "keywords": [
+        "imliam",
+        "php-catch-exit"
+    ],
+    "homepage": "https://github.com/imliam/php-catch-exit",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Liam Hammett",
+            "email": "liam@liamhammett.com",
+            "homepage": "https://liamhammett.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^7.1"
+    },
+    "autoload": {
+        "files": [
+            "src/Functions.php"
+        ]
+    },
+    "config": {
+        "sort-packages": true
+    }
+}
